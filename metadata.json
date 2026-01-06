@@ -1,0 +1,8 @@
+{
+  "name": "Copy of AI Career Coach & Interviewer",
+  "description": "A high-performance technical interview simulator that reads your resume, conducts a real-time voice and video coding interview, and provides expert feedback.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
